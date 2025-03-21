@@ -1,1 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/archivo');
+@import url('https://fonts.cdnfonts.com/css/bricolage-grotesque');
+
 @import "tailwindcss";
+
+
+@theme {
+    --font-archivo: 'Archivo', sans-serif;
+    --font-display: 'Bricolage Grotesque', sans-serif;
+}
